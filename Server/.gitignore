@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Production/Build
+dist/
+build/
+
+# Environment Variables (Secrets)
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
